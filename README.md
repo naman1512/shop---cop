@@ -6,31 +6,32 @@ Shop and Cop is a web application developed by Naman Bhatt using React. It serve
 
 ## Features
 
-Product Listings: Display of various products available for shopping.
-Smooth and Elegant: The interface includes smooth transitions and is easy to use.
-Tailwind CSS: Utilizes Tailwind CSS for styling and responsive design.
-Light And Dark Mode: Manages the color schemes according to your preferences.
+1. Product Listings: Display of various products available for shopping.
+2. Smooth and Elegant: The interface includes smooth transitions and is easy to use.
+3. Tailwind CSS: Utilizes Tailwind CSS for styling and responsive design.
+4. Light And Dark Mode: Manages the color schemes according to your preferences.
 
 ## Technologies Used
 
-React: Frontend JavaScript library for building user interfaces.
-Tailwind CSS: Utility-first CSS framework for styling.
-Firebase: Backend service for user authentication and data management.
-Other dependencies: Include any other libraries or frameworks used in the project.
+1. React: Frontend JavaScript library for building user interfaces.
+2. Tailwind CSS: Utility-first CSS framework for styling.
+3. Slick-Carousel: For a smooth intro carousel fpr displaying items
 
 ## Installation
 
-Clone the repository: git clone https://github.com/naman1512/shop---cop.git
-Install dependencies: npm install
-Start the development server: npm start
-Open http://localhost:3000 in your browser to view the application.
+1. Clone the repository: git clone https://github.com/naman1512/shop---cop.git
+2. Install dependencies: npm install
+3. Start the development server: npm start
+4. Open http://localhost:3000 in your browser to view the application.
 
 ## Usage
 
-Register for an account or log in if you already have one.
-Browse through the product listings and add items to your shopping cart.
-Proceed to checkout and complete the purchase process.
-Contributing
+1. Register for an account or log in if you already have one.
+2. Browse through the product listings and add items to your shopping cart.
+3. Proceed to checkout and complete the purchase process.
+
+## Contributing
+
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
