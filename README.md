@@ -15,7 +15,7 @@ Tailwind CSS: Utility-first CSS framework for styling.
 Firebase: Backend service for user authentication and data management.
 Other dependencies: Include any other libraries or frameworks used in the project.
 Installation
-Clone the repository: git clone https://github.com/naman1512/shop-cop.git
+Clone the repository: git clone https://github.com/naman1512/shop---cop.git
 Install dependencies: npm install
 Start the development server: npm start
 Open http://localhost:3000 in your browser to view the application.
