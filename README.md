@@ -16,6 +16,7 @@ Shop and Cop is a web application developed by Naman Bhatt using React. It serve
 1. React: Frontend JavaScript library for building user interfaces.
 2. Tailwind CSS: Utility-first CSS framework for styling.
 3. Slick-Carousel: For a smooth intro carousel fpr displaying items
+4. Vite : React support framework for front-end implementation.
 
 ## Installation
 
